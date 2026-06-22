@@ -3,3 +3,5 @@
 /dist
 /tooling/node_modules
 cypress/screenshots
+__pycache__/
+.pytest_cache/
